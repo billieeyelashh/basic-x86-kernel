@@ -1,0 +1,5 @@
+#!/bin/sh
+# This file was generated automatically by configure.  Do not edit.
+# This directory was configured as follows:
+/home/adrian/fun/basic-x86-kernel/build-binutils/configure --host=i686-unknown-linuxoldld --srcdir=. --with-target-subdir=. --norecursion 
+# using "xhost-mkfrag"
