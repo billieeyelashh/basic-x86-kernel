@@ -1,5 +1,5 @@
 # basic-x86-kernel
-Basic x86 kernel
+Basic 32bit x86 kernel
 
 For me learning how a basic kernel works
 
