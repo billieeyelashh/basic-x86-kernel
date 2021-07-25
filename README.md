@@ -3,7 +3,7 @@ Basic 32bit x86 kernel
 
 For me learning how a basic kernel works :)
 
-
+Porting things to AlienOS
 TO-DO:
 - Add build scripts
 - Add usage
